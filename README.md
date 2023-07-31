@@ -1,5 +1,6 @@
 ﻿# ScroogeCoin
 A project that aims to implement the following API.
+
 public class TxHandler {
 
   /** Creates a public ledger whose current UTXOPool 
