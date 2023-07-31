@@ -1,6 +1,7 @@
 ﻿# ScroogeCoin
 A project that aims to implement the following API.
 
+'''java
 public class TxHandler {
 
   /** Creates a public ledger whose current UTXOPool 
@@ -29,3 +30,5 @@ public class TxHandler {
   public Transaction[] handleTxs(Transaction[] possibleTxs);
 
 }
+
+'''
